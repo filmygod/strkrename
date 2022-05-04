@@ -1,8 +1,4 @@
-# Rename Telegram Bot [@RenameStarkBot](https://t.me/RenameStarkBot)
-
 > A star ⭐ from you means a lot to us!
-
-<p align="center"><a href="https://www.github.com/StarkBotsIndustries/RenameTelegramBot"><img src="https://telegra.ph/file/d81aeabffc3716304fcf6.jpg" width="2000"></a></p>
 
 Telegram bot to rename documents and videos with custom thumbnail.
 
