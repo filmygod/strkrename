@@ -8,7 +8,7 @@ Telegram bot to rename documents and videos with custom thumbnail.
 
 ### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/StarkBotsIndustries/RenameTelegramBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/filmygod/strkrename)
 
 1. Tap on above button and fill `API_ID`, `API_HASH`, `BOT_TOKEN` and `MUST_JOIN`.
 2. Then tap "Deploy App" below it. Wait till deploying is complete (will take atmost 2 minutes).
@@ -19,7 +19,7 @@ Telegram bot to rename documents and videos with custom thumbnail.
 
 1. Clone the repo
    ```markdown
-   git clone https://github.com/StarkBotsIndustries/RenameTelegramBot
+   git clone https://github.com/filmygod/strkrename
    ```
    
 2. Get a DATABASE_URL. If you don't know how, deploy using Heroku Button only or delete database things as it's not a compulsion.
@@ -65,14 +65,6 @@ Telegram bot to rename documents and videos with custom thumbnail.
 
 ## Support
 
-Channel :- [@StarkBots](https://t.me/StarkBots)
+Channel :- [@FilmygodHindiHDMovie](https://t.me/FilmygodHindiHDMovie)
 
-Group Chat :- [@StarkBotsChat](https://t.me/StarkBotsChat)
-
-## :)
-
-[![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/StarkBotsIndustries)
-
-[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://github.com/StarkBotsIndustries)
+Group Chat :- [@FilmygodHindiHDMovie](https://t.me/FilmygodHindiHDMovie)
